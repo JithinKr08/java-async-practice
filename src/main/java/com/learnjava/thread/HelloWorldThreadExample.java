@@ -1,5 +1,6 @@
 package com.learnjava.thread;
 
+//test
 import static com.learnjava.util.CommonUtil.delay;
 
 public class HelloWorldThreadExample {
